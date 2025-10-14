@@ -1,3 +1,5 @@
+![Monsters](./assets/monsters.png)
+
 # Monster List and Ranking
 
 ## Introduction
