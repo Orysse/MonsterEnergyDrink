@@ -1,6 +1,20 @@
+# Monster List and Ranking
+
 ![Monsters](./assets/monsters.png)
 
-# Monster List and Ranking
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Tastes Tried](#tastes-tried)
+- [Tierlist](#tierlist)
+- [Detailed Reviews](#detailed-reviews)
+  - [S Tier](#s-tier)
+  - [A Tier](#a-tier)
+  - [B Tier](#b-tier)
+  - [C Tier](#c-tier)
+  - [E Tier](#e-tier)
+
+---
 
 ## Introduction
 
@@ -12,16 +26,14 @@ at EPITA and this idea came to me during my internship at CEA
 Paris-Saclay at DES/DM2S/SGLS/LCAN.
 
 MangoLoco-ly
-
 --
+Abel Chartier  
+ING2 2027 - CEA Intern  
+_"Redbull gives you wings"_
 
-Abel Chartier
+---
 
-ING2 2027 - CEA Intern
-
-"Redbull gives you wings"
-
-## Tastes
+## Tastes Tried
 
 ### Monster Energy
 
@@ -34,7 +46,7 @@ ING2 2027 - CEA Intern
 
 ### Monster Ultra
 
-- [x] Ultra White (R)
+- [x] Ultra White **(R)**
 - [x] Ultra Golden Pineapple
 - [ ] Ultra Paradise
 - [ ] Ultra Peach keen
@@ -45,9 +57,9 @@ ING2 2027 - CEA Intern
 ### Juiced Monster
 
 - [x] Mango Loco
-- [x] Rio Punch (R)
+- [x] Rio Punch **(R)**
 - [ ] Aussie Lemonade
-- [x] Pipeline Punch (R)
+- [x] Pipeline Punch **(R)**
 - [x] Mixxd
 - [ ] Monarch
 - [ ] Pacific Punch
@@ -59,148 +71,194 @@ ING2 2027 - CEA Intern
 - [x] Rehab Tea + Lemonade
 - [x] Rehab Peach Tea
 
-(R) - To retest
+**(R)** - To retest
+
+---
 
 ## Tierlist
 
-| Tier | Taste                                        |
-| ---- | -------------------------------------------- |
-| S    | Lando Norris, Mango Loco                     |
-| A    | Mixxd, Pipeline Punch, Rio Punch             |
-| B    | Monster Energy, Rehab Peach Tea, Ultra White |
-| C    | Rehab Tea + Lemonade                         |
-| D    |                                              |
-| E    | Ultra Golden Pineapple                       |
-| F    |                                              |
+| Tier  | Flavors                                        |
+| :---: | :--------------------------------------------- |
+| **S** | Lando Norris • Mango Loco                      |
+| **A** | Mixxd • Pipeline Punch • Rio Punch             |
+| **B** | Monster Energy • Rehab Peach Tea • Ultra White |
+| **C** | Rehab Tea + Lemonade                           |
+| **D** | —                                              |
+| **E** | Ultra Golden Pineapple                         |
+| **F** | —                                              |
 
-## Reviews
+---
+
+## Detailed Reviews
 
 ### S Tier
 
-#### Lando Norris
+<details>
+<summary><b>Lando Norris</b></summary>
 
-Refreshing melon and yuzu flavor. Good taste for a zero-sugar drink
-with minimal artificial sweetener taste.
+> Refreshing melon and yuzu flavor. Good taste for a zero-sugar drink
+> with minimal artificial sweetener taste.
 
-Pros:
+**Pros:**
 
 - Nice melon flavor
 - Doesn't feel as heavy as regular energy drinks
 
-Cons:
+**Cons:**
 
 - Slight aspartame aftertaste
 
-#### Mango Loco
+</details>
 
-Classic tropical taste similar to Oasis drinks. Very easy to drink.
+<details>
+<summary><b>Mango Loco</b></summary>
 
-Pros:
+> Classic tropical taste similar to Oasis drinks. Very easy to drink.
+
+**Pros:**
 
 - Familiar Oasis-like flavor
 - Goes down easily
 
-Cons:
+**Cons:**
 
 - Very sweet, can be overwhelming
 
+</details>
+
+---
+
 ### A Tier
 
-#### Mixxd
+<details>
+<summary><b>Mixxd</b></summary>
 
-Supposed to be tropical fruit but has an unusual financier-like
-taste. Still quite good.
+> Supposed to be tropical fruit but has an unusual financier-like
+> taste. Still quite good.
 
-Pros:
+**Pros:**
 
 - Sweet and smooth
 - Easy to drink
 - Interesting flavor
 
-Cons:
+**Cons:**
 
 - Might be too sweet
 - Not what you'd expect from a tropical Monster
 
-#### Pipeline Punch
+</details>
 
-(To be retested)
+<details>
+<summary><b>Pipeline Punch</b></summary>
 
-#### Rio Punch
+> _To be retested_
 
-(To be retested)
+</details>
+
+<details>
+<summary><b>Rio Punch</b></summary>
+
+> _To be retested_
+
+</details>
+
+---
 
 ### B Tier
 
-#### Monster Energy
+<details>
+<summary><b>Monster Energy</b></summary>
 
-Strong, bitter taste that wakes you up well.
+> Strong, bitter taste that wakes you up well.
 
-Pros:
+**Pros:**
 
 - Bold, punchy flavor
 
-Cons:
+**Cons:**
 
 - Strong bitterness, can be hard to finish
 
-#### Rehab Peach Tea
+</details>
 
-Decent Monster, nothing special. Tastes like iced tea at first then
-sugar-free energy drink aftertaste. Pretty average.
+<details>
+<summary><b>Rehab Peach Tea</b></summary>
 
-Pros:
+> Decent Monster, nothing special. Tastes like iced tea at first then
+> sugar-free energy drink aftertaste. Pretty average.
+
+**Pros:**
 
 - Refreshing
 - Reminds me of Estathè[^1]
 
-Cons:
+**Cons:**
 
 - Noticeable aspartame taste
 
-[^1]:
-    Estathè: Italian iced tea brand served in yogurt-like cups
-    with a straw, very popular with kids
+</details>
 
-#### Ultra White
+<details>
+<summary><b>Ultra White</b></summary>
 
-Strong, somewhat chemical taste with heavy aspartame aftertaste.
+> Strong, somewhat chemical taste with heavy aspartame aftertaste.
 
-Pros:
+**Pros:**
 
 - Not too sweet
 
-Cons:
+**Cons:**
 
 - Aspartame flavor
 - Odd taste
 
+</details>
+
+---
+
 ### C Tier
 
-#### Rehab Tea + Lemonade
+<details>
+<summary><b>Rehab Tea + Lemonade</b></summary>
 
-Like the Rehab Peach Tea but lemon flavored and without the
-nostalgic appeal.
+> Like the Rehab Peach Tea but lemon flavored and without the
+> nostalgic appeal.
 
-Pros:
+**Pros:**
 
 - Refreshing
 
-Cons:
+**Cons:**
 
 - Strong aspartame taste
 
+</details>
+
+---
+
 ### E Tier
 
-#### Ultra Golden Pineapple
+<details>
+<summary><b>Ultra Golden Pineapple</b></summary>
 
-Tastes like bad medicine (pineapple fizzy tablets). Barely any real
-pineapple flavor.
+> Tastes like bad medicine (pineapple fizzy tablets). Barely any real
+> pineapple flavor.
 
-Pros:
+**Pros:**
 
 - It's still a Monster
 
-Cons:
+**Cons:**
 
 - Bad taste
+
+</details>
+
+---
+
+## Footnotes
+
+[^1]:
+    **Estathè:** Italian iced tea brand served in yogurt-like cups
+    with a straw, very popular with kids
