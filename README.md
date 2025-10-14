@@ -64,7 +64,7 @@ _"Redbull gives you wings"_
 - [x] Pipeline Punch **(R)**
 - [x] Mixxd
 - [ ] Monarch
-- [ ] Pacific Punch
+- [x] Pacific Punch
 - [ ] Khaotic
 - [ ] Juice Monster Bad Apple
 
@@ -79,15 +79,15 @@ _"Redbull gives you wings"_
 
 ## Tierlist
 
-| Tier  | Flavors                                        |
-| :---: | :--------------------------------------------- |
-| **S** | Lando Norris • Mango Loco                      |
-| **A** | Mixxd • Pipeline Punch • Rio Punch             |
-| **B** | Monster Energy • Rehab Peach Tea • Ultra White |
-| **C** | Rehab Tea + Lemonade                           |
-| **D** | —                                              |
-| **E** | Ultra Golden Pineapple                         |
-| **F** | —                                              |
+| Tier  | Flavors                                                        |
+| :---: | :------------------------------------------------------------- |
+| **S** | Lando Norris • Mango Loco                                      |
+| **A** | Mixxd • Pipeline Punch • Rio Punch                             |
+| **B** | Pacific Punch • Monster Energy • Rehab Peach Tea • Ultra White |
+| **C** | Rehab Tea + Lemonade                                           |
+| **D** | —                                                              |
+| **E** | Ultra Golden Pineapple                                         |
+| **F** | —                                                              |
 
 ---
 
@@ -168,6 +168,23 @@ _"Redbull gives you wings"_
 ---
 
 ### B Tier
+
+<details>
+<summary><b>Pacific Punch</b></summary>
+
+> Halfway through between the MangoLoco and the Mixxd (Oasis taste with an
+> aftertaste of financier), it is a bit too sweet and lack a strong identity.
+
+**Pros:**
+
+- Resemble two really great monsters
+
+**Cons:**
+
+- Too sweet
+- No strong identity
+
+</details>
 
 <details>
 <summary><b>Monster Energy</b></summary>
