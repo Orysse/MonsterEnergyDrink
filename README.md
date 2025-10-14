@@ -26,7 +26,9 @@ at EPITA and this idea came to me during my internship at CEA
 Paris-Saclay at DES/DM2S/SGLS/LCAN.
 
 MangoLoco-ly
+
 --
+
 Abel Chartier  
 ING2 2027 - CEA Intern  
 _"Redbull gives you wings"_
@@ -256,8 +258,6 @@ _"Redbull gives you wings"_
 </details>
 
 ---
-
-## Footnotes
 
 [^1]:
     **Estathè:** Italian iced tea brand served in yogurt-like cups
