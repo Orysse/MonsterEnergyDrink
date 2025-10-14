@@ -54,7 +54,7 @@ _"Redbull gives you wings"_
 - [ ] Ultra Peach keen
 - [ ] Ultra Fiesta Mango
 - [ ] Ultra Watermelon
-- [ ] Ultra Roba
+- [ ] Ultra Rosa
 
 ### Juiced Monster
 
