@@ -170,7 +170,7 @@ evaluation soon.
 
 - Strong bitterness, can be hard to finish
 
-Why **A** ?: The original one, the taste is really what you would like for an
+Why **A** ?: The original one ! The taste is really what you would like for an
 unflavored energy drink, it feels really boosting.
 
 </details>
@@ -301,7 +301,7 @@ the nostalgia point I gave to the later.
 
 - Bad taste
 
-Why **E** ?: I really hated it, the ananas isn't a fruit I would like in a
+Why **E** ?: I really hated it. Ananas isn't a fruit I would like in a
 carbonated beverage to begin with and I now know why. Really not for me.
 
 </details>
