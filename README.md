@@ -110,7 +110,8 @@ _"Redbull gives you wings"_
 
 - Slight aspartame aftertaste
 
-Why **S** ?: I love melon and it is not too sweet.
+Why **S** ?: I love melon and it is not too sweet. Legit perfect
+for me.
 
 </details>
 
