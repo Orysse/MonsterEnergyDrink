@@ -148,7 +148,7 @@ evaluation soon.
 </details>
 
 <details>
-<summary><b>Pipeline Punch</b></summary>
+<summary><b>Khaotic</b></summary>
 
 > Good amount of sweetness and simple orange taste. A good monster overall.
 
