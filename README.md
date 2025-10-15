@@ -65,7 +65,7 @@ _"Redbull gives you wings"_
 - [x] Mixxd
 - [ ] Monarch
 - [x] Pacific Punch
-- [ ] Khaotic
+- [x] Khaotic
 - [ ] Juice Monster Bad Apple
 
 ### Monster Rehab
@@ -82,7 +82,7 @@ _"Redbull gives you wings"_
 | Tier  | Flavors                                               |
 | :---: | :---------------------------------------------------- |
 | **S** | Lando Norris • Mango Loco                             |
-| **A** | Pipeline Punch • Rio Punch • Monster Energy           |
+| **A** | Pipeline Punch • Khaotic • Rio Punch • Monster Energy           |
 | **B** | Rehab Peach Tea • Mixxd • Pacific Punch • Ultra White |
 | **C** | Rehab Tea + Lemonade                                  |
 | **D** | —                                                     |
@@ -144,6 +144,24 @@ Why **S** ?: Best at it's job, easy to drink and a grat boost.
 
 Why **A** ?: It was good in my memory but will be subjected to a more thorough
 evaluation soon.
+
+</details>
+
+<details>
+<summary><b>Pipeline Punch</b></summary>
+
+> Good amount of sweetness and simple orange taste. A good monster overall.
+
+Pros:
+
+- Sweet but not too much
+
+Cons:
+
+- Not the most interesting taste
+
+Why **A** ?: Ok taste in a simple to drink monster. Nothing crazy but 
+definitly one I could drink on a regular basis.
 
 </details>
 
