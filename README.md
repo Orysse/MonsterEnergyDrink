@@ -63,7 +63,7 @@ _"Redbull gives you wings"_
 - [ ] Aussie Lemonade
 - [x] Pipeline Punch **(R)**
 - [x] Mixxd
-- [ ] Monarch
+- [x] Monarch
 - [x] Pacific Punch
 - [x] Khaotic
 - [ ] Juice Monster Bad Apple
@@ -82,7 +82,7 @@ _"Redbull gives you wings"_
 | Tier  | Flavors                                               |
 | :---: | :---------------------------------------------------- |
 | **S** | Lando Norris • Mango Loco                             |
-| **A** | Pipeline Punch • Khaotic • Rio Punch • Monster Energy           |
+| **A** | Pipeline Punch • Monarch • Khaotic • Rio Punch • Monster Energy           |
 | **B** | Rehab Peach Tea • Mixxd • Pacific Punch • Ultra White |
 | **C** | Rehab Tea + Lemonade                                  |
 | **D** | —                                                     |
@@ -144,6 +144,24 @@ Why **S** ?: Best at it's job, easy to drink and a grat boost.
 
 Why **A** ?: It was good in my memory but will be subjected to a more thorough
 evaluation soon.
+
+</details>
+
+<details>
+<summary><b>Monarch</b></summary>
+
+> Good amount of sweetness and a simple and refreshing nectarine taste. A good monster overall.
+
+Pros:
+
+- Sweet but not too much
+
+Cons:
+
+- Doesnt have much impact when you drink it
+
+Why **A** ?: A nice taste but not my favorite. Doesn't really feel like a 
+monster to me even tho I can feel the cafeine effect.
 
 </details>
 
