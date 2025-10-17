@@ -60,7 +60,7 @@ _"Redbull gives you wings"_
 
 - [x] Mango Loco
 - [x] Rio Punch **(R)**
-- [ ] Aussie Lemonade
+- [x] Aussie Lemonade
 - [x] Pipeline Punch **(R)**
 - [x] Mixxd
 - [x] Monarch
@@ -79,15 +79,15 @@ _"Redbull gives you wings"_
 
 ## Tierlist
 
-| Tier  | Flavors                                               |
-| :---: | :---------------------------------------------------- |
-| **S** | Lando Norris • Mango Loco                             |
-| **A** | Pipeline Punch • Monarch • Khaotic • Rio Punch • Monster Energy           |
-| **B** | Rehab Peach Tea • Mixxd • Pacific Punch • Ultra White |
-| **C** | Rehab Tea + Lemonade                                  |
-| **D** | —                                                     |
-| **E** | Ultra Golden Pineapple                                |
-| **F** | —                                                     |
+| Tier  | Flavors                                                                 |
+| :---: | :---------------------------------------------------------------------- |
+| **S** | Lando Norris • Mango Loco                                               |
+| **A** | Pipeline Punch • Monarch • Khaotic • Rio Punch • Monster Energy         |
+| **B** | Rehab Peach Tea • Aussie Lemonade • Mixxd • Pacific Punch • Ultra White |
+| **C** | Rehab Tea + Lemonade                                                    |
+| **D** | —                                                                       |
+| **E** | Ultra Golden Pineapple                                                  |
+| **F** | —                                                                       |
 
 ---
 
@@ -160,7 +160,7 @@ Cons:
 
 - Doesnt have much impact when you drink it
 
-Why **A** ?: A nice taste but not my favorite. Doesn't really feel like a 
+Why **A** ?: A nice taste but not my favorite. Doesn't really feel like a
 monster to me even tho I can feel the cafeine effect.
 
 </details>
@@ -178,7 +178,7 @@ Cons:
 
 - Not the most interesting taste
 
-Why **A** ?: Ok taste in a simple to drink monster. Nothing crazy but 
+Why **A** ?: Ok taste in a simple to drink monster. Nothing crazy but
 definitly one I could drink on a regular basis.
 
 </details>
@@ -232,6 +232,26 @@ unflavored energy drink, it feels really boosting.
 
 Why **B** ?: I really liked it the first time but it doesn't really feel like
 an energy drink, plus I really don't like the taste of artificial sweeteners.
+
+</details>
+
+<details>
+<summary><b>Aussi Lemonade</b></summary>
+
+> Really well done taste wise, it is a lemonade tasting monster. But the taste
+> doesn't fit a monter really well.
+
+**Pros:**
+
+- Refreshing
+- Accurate lemonade taste
+
+**Cons:**
+
+- Not really a monster taste
+
+Why **B** ?: If I wanted to drink lemonade I would drink some, doesn't fit a
+monster IMO.
 
 </details>
 
