@@ -43,7 +43,7 @@ _"Redbull gives you wings"_
 - [ ] Monster Energy Zero Sugar
 - [x] Lando Norris
 - [ ] Nitro
-- [ ] Top Speed
+- [x] Top Speed
 - [ ] Zero Sugar
 
 ### Monster Ultra
@@ -82,8 +82,8 @@ _"Redbull gives you wings"_
 | Tier  | Flavors                                                                 |
 | :---: | :---------------------------------------------------------------------- |
 | **S** | Lando Norris • Mango Loco                                               |
-| **A** | Pipeline Punch • Monarch • Khaotic • Rio Punch • Monster Energy         |
-| **B** | Rehab Peach Tea • Aussie Lemonade • Mixxd • Pacific Punch • Ultra White |
+| **A** | Pipeline Punch • Top Speed • Rio Punch • Monster Energy         |
+| **B** | Monarch • Khaotic • Rehab Peach Tea • Aussie Lemonade • Mixxd • Pacific Punch • Ultra White |
 | **C** | Rehab Tea + Lemonade                                                    |
 | **D** | —                                                                       |
 | **E** | Ultra Golden Pineapple                                                  |
@@ -148,38 +148,19 @@ evaluation soon.
 </details>
 
 <details>
-<summary><b>Monarch</b></summary>
+<summary><b>Top Speed</b></summary>
 
-> Good amount of sweetness and a simple and refreshing nectarine taste. A good monster overall.
-
-Pros:
-
-- Sweet but not too much
-
-Cons:
-
-- Doesnt have much impact when you drink it
-
-Why **A** ?: A nice taste but not my favorite. Doesn't really feel like a
-monster to me even tho I can feel the cafeine effect.
-
-</details>
-
-<details>
-<summary><b>Khaotic</b></summary>
-
-> Good amount of sweetness and simple orange taste. A good monster overall.
+> A peach monster with a good and sweet taste, even tho the taste of aspartame is present.
 
 Pros:
 
-- Sweet but not too much
+- Sweet peach taste
 
 Cons:
 
-- Not the most interesting taste
+- Sugarless
 
-Why **A** ?: Ok taste in a simple to drink monster. Nothing crazy but
-definitly one I could drink on a regular basis.
+Why **A** ?: A nice taste but an aspartame aftertaste that spoils it for me.
 
 </details>
 
@@ -214,6 +195,42 @@ unflavored energy drink, it feels really boosting.
 ---
 
 ### B Tier
+
+<details>
+<summary><b>Monarch</b></summary>
+
+> Good amount of sweetness and a simple and refreshing nectarine taste. A good monster overall.
+
+Pros:
+
+- Sweet but not too much
+
+Cons:
+
+- Doesnt have much impact when you drink it
+
+Why **B** ?: A nice taste but not my favorite. Doesn't really feel like a
+monster to me even tho I can feel the cafeine effect.
+
+</details>
+
+<details>
+<summary><b>Khaotic</b></summary>
+
+> Good amount of sweetness and simple orange taste. A good monster overall.
+
+Pros:
+
+- Sweet but not too much
+
+Cons:
+
+- Not the most interesting taste
+
+Why **B** ?: Ok taste in a simple to drink monster. Nothing crazy but
+definitly one I could drink on a regular basis.
+
+</details>
 
 <details>
 <summary><b>Rehab Peach Tea</b></summary>
